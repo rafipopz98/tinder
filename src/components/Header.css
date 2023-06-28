@@ -1,0 +1,20 @@
+.header{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+}
+.headerProfile{
+    
+padding: 20px;
+}
+.headerLogo{
+    object-fit: contain;
+
+    height: 50px;
+}
+.headerMsg{
+ 
+    padding: 20px;
+}
